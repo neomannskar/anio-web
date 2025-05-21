@@ -1,2 +1,2 @@
-# anio-web
-Simple calendar website
+# cycles-web
+Annual progress bar
