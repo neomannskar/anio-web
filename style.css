@@ -44,7 +44,7 @@ body {
   top: -5em;         
   left: 0;
   transform: translateX(-50%) scale(3);
-  font-size: 1.8rem;
+  font-size: 1.8vh;
   white-space: nowrap;
 }
 
