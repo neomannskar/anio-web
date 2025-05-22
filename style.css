@@ -104,6 +104,10 @@ body {
   z-index: 10;
 }
 
+.month:hover {
+  color: #ffa500;
+}
+
 .month:hover .days {
   display: grid;
 }
